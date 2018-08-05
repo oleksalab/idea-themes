@@ -1,9 +1,9 @@
 <scheme name="Cobalt Eclipse" version="142">
   <metaInfo>
-    <property name="created">2018-08-02T16:22:10</property>
+    <property name="created">2018-08-05T10:29:05</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.5.0.0</property>
-    <property name="modified">2018-08-02T16:22:16</property>
+    <property name="modified">2018-08-05T10:29:08</property>
     <property name="originalScheme">Cobalt Eclipse</property>
   </metaInfo>
   <colors>
@@ -295,7 +295,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="d25252" />
+        <option name="FOREGROUND" value="fc827d" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -321,7 +321,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="3ad900" />
+        <option name="FOREGROUND" value="26cd06" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -441,6 +441,18 @@
         <option name="FOREGROUND" value="bed6ff" />
       </value>
     </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="BACKGROUND" value="414141" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="BACKGROUND" value="414141" />
+      </value>
+    </option>
     <option name="LINE_FULL_COVERAGE">
       <value>
         <option name="FOREGROUND" value="485848" />
@@ -512,7 +524,8 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ddd83c" />
+        <option name="FOREGROUND" value="7ce8" />
+        <option name="EFFECT_COLOR" value="7ce8" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
