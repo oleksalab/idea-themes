@@ -1,4 +1,4 @@
-# Избранные темы подсветки кода для IntelliJ IDEA
+# Темы подсветки кода для IntelliJ IDEA
 
 - Cobalt Darcula/Eclipse - отредактированная тема в цветах Cobalt для IDEA
 
