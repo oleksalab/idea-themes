@@ -1,9 +1,9 @@
 <scheme name="Cobalt Darcula" version="142">
   <metaInfo>
-    <property name="created">2018-08-06T13:34:14</property>
+    <property name="created">2018-08-06T17:34:19</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.5.0.0</property>
-    <property name="modified">2018-08-06T13:34:18</property>
+    <property name="modified">2018-08-06T17:34:24</property>
     <property name="originalScheme">Cobalt Darcula</property>
   </metaInfo>
   <colors>
@@ -514,7 +514,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="aaaaaa" />
-        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="BACKGROUND" value="252627" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
